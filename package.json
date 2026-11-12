@@ -1,0 +1,11 @@
+{
+  "name": "grandmaster-chess",
+  "version": "1.0.0",
+  "description": "GRANDMASTER - Premium Chess Game",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.1.0"
+  }
+}
